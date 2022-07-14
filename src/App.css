@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  font-family: sans-serif;
+  background: cornflowerblue;
+  color: white;
+  padding: 5px 20px;
+  box-shadow: 0px 1px 2px gray;
+  display: flex;
+  color: white;
+  margin-left: 0px;
+  font-size: 20px;
+  text-align: center;
+}
